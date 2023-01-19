@@ -29,12 +29,12 @@ Lembre-se de verificar a compatibilidade da versão do python instalada e de cer
 
 - ``Python 3.10``
 - Módulo [Requests](https://pypi.org/project/requests/) 
-- Módulo  [Requests](https://pypi.org/project/requests/) 
+- Módulo  [Requests-HTML](https://requests.readthedocs.io/projects/requests-html/en/latest/) 
 - [Google Colab](https://colab.research.google.com/)
 
 
 ## 👨‍💻Desenvolvimento, Créditos, Agradecimentos
 
-Desnvolvido [mim mesmo](https://github.com/Eduzord) utilizando como base o código no [artigo](https://practicaldatascience.co.uk/data-science/how-to-scrape-google-search-results-using-python) do [Matt Clarcke](https://www.linkedin.com/in/mattclarke/).
+Desenvolvido [mim mesmo](https://github.com/Eduzord) utilizando como base o código no [artigo](https://practicaldatascience.co.uk/data-science/how-to-scrape-google-search-results-using-python) do [Matt Clarcke](https://www.linkedin.com/in/mattclarke/).
 
 Não posso deixar de agradecer também diversos membros da comunidade do [Stack Overflow](https://stackoverflow.com) pelo inestimável auxílio involuntário que me prestaram ao contribuir nos fóruns.
